@@ -1,0 +1,28 @@
+{
+  "name": "clockwork-fake",
+  "version": "0.0.0",
+  "description": "A fake of the ClockworkSMS API.",
+  "scripts": {
+    "start": "node ./bin/clockwork.js"
+  },
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codesleuth/clockwork-fake.git"
+  },
+  "keywords": [
+    "clockwork",
+    "sms",
+    "fake"
+  ],
+  "author": "David Wood <david.p.wood@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesleuth/clockwork-fake/issues"
+  },
+  "homepage": "https://github.com/codesleuth/clockwork-fake",
+  "dependencies": {
+    "express": "~4.10.0",
+    "express-xml-bodyparser": "0.0.4"
+  }
+}

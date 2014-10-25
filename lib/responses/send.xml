@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Message_Resp>
+  <SMS_Resp>
+    <To>441234567890</To>
+    <MessageID>AB_123456</MessageID>
+  </SMS_Resp>
+</Message_Resp>
